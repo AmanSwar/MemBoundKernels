@@ -1,0 +1,4 @@
+# ninja log v5
+0	100192	1766420483127510322	/home/aman/code/cuda/mem_kernels/layernorm/cuda/build/temp.linux-x86_64-cpython-312/binding.o	826526dd744d0229
+82	108966	1766421137983260442	/home/aman/code/cuda/mem_kernels/layernorm/cuda/build/temp.linux-x86_64-cpython-312/binding.o	ca3c30277a0518d9
+20	76509	1766470003716771883	/home/aman/code/cuda/mem_kernels/layernorm/cuda/build/temp.linux-x86_64-cpython-312/binding.o	ca3c30277a0518d9

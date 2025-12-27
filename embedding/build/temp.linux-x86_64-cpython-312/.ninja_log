@@ -1,0 +1,4 @@
+# ninja log v5
+0	95419	1766486014774117745	/home/aman/code/cuda/mem_kernels/embedding/build/temp.linux-x86_64-cpython-312/binding.o	f79c2f389f7b85c1
+169	90448	1766502081300992668	/home/aman/code/cuda/mem_kernels/embedding/build/temp.linux-x86_64-cpython-312/binding.o	f79c2f389f7b85c1
+12	78926	1766565081048784191	/home/aman/code/cuda/mem_kernels/embedding/build/temp.linux-x86_64-cpython-312/binding.o	f79c2f389f7b85c1
